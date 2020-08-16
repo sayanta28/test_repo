@@ -1,4 +1,4 @@
-﻿set,id,first_name
+set,id,first_name
 set,1,Cully
 set,2,Edd
 set,3,Josi
@@ -987,5 +987,3 @@ set,985,Lissi
 set,986,Janel
 set,987,Thacher
 set,988,Dar
-set,989,Vince
-set,990,Mord
